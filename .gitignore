@@ -1,4 +1,8 @@
+
 /target/
 /.idea/
 /*.iml
 *.log
+.DS_Store
+*.tmp
+*.swp
