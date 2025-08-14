@@ -1,24 +1,8 @@
-# Maven build
-/target/
 
-# IntelliJ IDEA
+/target/
 /.idea/
 /*.iml
-/checkstyle-idea.xml
-/compiler.xml
-/dataSources.xml
-/encodings.xml
-/jarRepositories.xml
-/misc.xml
-/modules.xml
-/vcs.xml
-
-# Logs
 *.log
-
-# macOS
 .DS_Store
-
-# Temp
 *.tmp
 *.swp
