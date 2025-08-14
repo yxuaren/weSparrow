@@ -1,15 +1,23 @@
 /target/
 
 # IntelliJ IDEA
-.idea/
-*.iml
+/.idea/
+/*.iml
+/checkstyle-idea.xml
+/compiler.xml
+/dataSources.xml
+/encodings.xml
+/jarRepositories.xml
+/misc.xml
+/modules.xml
+/vcs.xml
 
 # Logs
 *.log
 
-# MacOS
+# macOS
 .DS_Store
 
-# Other temporary files
+# Temp
 *.tmp
 *.swp
