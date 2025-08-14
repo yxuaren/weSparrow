@@ -1,5 +1,15 @@
 /target/
-/.idea/
-/*.iml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
 *.log
+
+# MacOS
 .DS_Store
+
+# Other temporary files
+*.tmp
+*.swp
